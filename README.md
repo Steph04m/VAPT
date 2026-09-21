@@ -1,4 +1,4 @@
-# VAPT-Vulnerability-Assessment-Penetration-Testing-
+# Vulnerability-Assessment-Penetration-Testing-L31
 Questa repository contiene materiale riguardante il corso di Vulnerability Assessment &amp; Penetration Testing dell'A.A 2025/2026.
 
 Contiene:
