@@ -3,4 +3,5 @@ Questa repository contiene materiale riguardante il corso di Vulnerability Asses
 
 Contiene:
 - Un file PDF contenente gli argomenti del corso;
+- Il file LaTeX del PDF;
 - La relazione del mio progetto di VAPT (valutato 30/30).
